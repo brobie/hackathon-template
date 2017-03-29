@@ -18,5 +18,7 @@ Password: hackathon123
 
 ## Sample Data
 By default, sample data is not installed.  To install sample data, run the following commands from the /var/www/html/hackathon-template directory:
+
 bin/magento sampledata:deploy
+
 bin/magento setup:upgrade
